@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Runtime account data
+data/accounts.txt
+data/transactions.txt
+
+# Generated reports
+reports/database_reports/*
+reports/transaction_reports/*
+reports/engine_reports/*
