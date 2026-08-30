@@ -12,4 +12,4 @@ A *CLI based* **Accounting software** that I'm building from scratch, <br> Compl
 ## 5.Run **Main.java**<br>
 -----------------------------------------------------------------------<br>
 # Connect with me on [LinkedIn](https://linkedin.com/in/samgg/) <br>
-# Or [Email me](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfTKDNlXWRGLskDrdRMCwzzRbRktBRfJLGvTzjfmxKCqxmqNQSTRfqdsxKBQdwDwcZBsV) to *Collaborate* or *Contribute*. <br>
+# Or [Email me](https://mail.google.com/mail/?view=cm&to=sam2009.work%40gmail.com) to *Collaborate* or *Contribute*. <br>
